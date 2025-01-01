@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="873a502b-d4a8-45a8-9119-4f1e084790af" name="Changes" comment="后台系统完善" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="/usr/local/apache-maven-3.8.6" />
+        <option name="localRepository" value="/usr/local/apache-maven-3.8.6/repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.8.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eirBsCF8SJrGqOAX2qwU2yB8ue" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActivityInfoServiceImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodeGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeixinServiceImpl.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ServiceAclApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServiceActivityApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.ServiceProductApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.ServiceSearchApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.ServiceSysApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/micro/Desktop/micro-ssyx-parent/service-client/service-user-client&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.25502008&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.micro.ssyx.payment.service.impl" />
+      <recent name="com.micro.ssyx.service.impl" />
+      <recent name="com.micro.ssyx.product.service" />
+      <recent name="com.micro.home.service.impl" />
+      <recent name="com.micro.home.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service-client/service-user-client" />
+      <recent name="$PROJECT_DIR$/service-client/service-search-client" />
+      <recent name="$PROJECT_DIR$/service-client/service-product-client" />
+      <recent name="$PROJECT_DIR$/service-client/service-order-client" />
+      <recent name="$PROJECT_DIR$/service-client/service-cart-client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service/service-sys/src/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service/service-sys/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.micro.ssyx.product.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ActivityInfoServiceImpl">
+    <configuration name="ActivityInfoServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.micro.ssyx.activity.service.impl.ActivityInfoServiceImpl" />
+      <module name="service-activity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micro.ssyx.activity.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.micro.ssyx.common.utils.CodeGenerator" />
+      <module name="service-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micro.ssyx.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="common-util" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeixinServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.micro.ssyx.payment.service.impl.WeixinServiceImpl" />
+      <module name="service-payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micro.ssyx.payment.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="service-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micro.ssyx.ServiceSysApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micro.ssyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActivityInfoServiceImpl" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.WeixinServiceImpl" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Spring Boot.ServiceSysApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="873a502b-d4a8-45a8-9119-4f1e084790af" name="Changes" comment="" />
+      <created>1712398107025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712398107025</updated>
+      <workItem from="1712398107978" duration="893000" />
+      <workItem from="1712399004331" duration="292000" />
+      <workItem from="1712399298834" duration="6629000" />
+      <workItem from="1712450625859" duration="3000" />
+      <workItem from="1712450630370" duration="742000" />
+      <workItem from="1712465288038" duration="1799000" />
+      <workItem from="1712489441505" duration="1274000" />
+      <workItem from="1712493794564" duration="53000" />
+      <workItem from="1712493864363" duration="6194000" />
+      <workItem from="1712550991375" duration="3089000" />
+      <workItem from="1712576551372" duration="5626000" />
+      <workItem from="1712586069187" duration="2686000" />
+      <workItem from="1712645195305" duration="935000" />
+      <workItem from="1712646138525" duration="11000" />
+      <workItem from="1712661332828" duration="4967000" />
+      <workItem from="1712747271201" duration="7081000" />
+      <workItem from="1713356652321" duration="796000" />
+      <workItem from="1713357467191" duration="1049000" />
+      <workItem from="1713358899793" duration="3000" />
+      <workItem from="1713442731919" duration="951000" />
+      <workItem from="1713443688393" duration="1414000" />
+      <workItem from="1713855614424" duration="3000" />
+      <workItem from="1713875115636" duration="4157000" />
+      <workItem from="1714302601384" duration="7718000" />
+      <workItem from="1714354730150" duration="389000" />
+      <workItem from="1714370556703" duration="108000" />
+      <workItem from="1714390404324" duration="299000" />
+      <workItem from="1714390706965" duration="925000" />
+      <workItem from="1714395773974" duration="2000" />
+      <workItem from="1714438320877" duration="9000" />
+      <workItem from="1714443262654" duration="705000" />
+      <workItem from="1714998365681" duration="497000" />
+      <workItem from="1714998866335" duration="3000000" />
+      <workItem from="1715082806303" duration="2956000" />
+      <workItem from="1715092553998" duration="978000" />
+      <workItem from="1715604681749" duration="559000" />
+      <workItem from="1715605261163" duration="6042000" />
+      <workItem from="1715857200085" duration="8234000" />
+      <workItem from="1716210613310" duration="603000" />
+      <workItem from="1716211220357" duration="1355000" />
+      <workItem from="1716380155298" duration="253000" />
+      <workItem from="1716380411540" duration="2825000" />
+      <workItem from="1716714294081" duration="1874000" />
+      <workItem from="1717306428130" duration="3294000" />
+      <workItem from="1719228721977" duration="17000" />
+      <workItem from="1719228748673" duration="1879000" />
+      <workItem from="1719230636909" duration="4091000" />
+      <workItem from="1719849235076" duration="5105000" />
+      <workItem from="1719916798533" duration="34879000" />
+      <workItem from="1720414198905" duration="4590000" />
+      <workItem from="1720419855528" duration="597000" />
+      <workItem from="1720422658274" duration="24000" />
+      <workItem from="1720422692030" duration="20900000" />
+      <workItem from="1720521754174" duration="317000" />
+      <workItem from="1720522075383" duration="81000" />
+      <workItem from="1720522619592" duration="244000" />
+      <workItem from="1720523545608" duration="45000" />
+      <workItem from="1721631906672" duration="966000" />
+      <workItem from="1721889351024" duration="5495000" />
+      <workItem from="1722401886726" duration="1978000" />
+      <workItem from="1724847936952" duration="2651000" />
+      <workItem from="1724939651711" duration="1197000" />
+      <workItem from="1725245628683" duration="994000" />
+      <workItem from="1725254606518" duration="1000" />
+      <workItem from="1725254655483" duration="4000" />
+      <workItem from="1725269987285" duration="5564000" />
+      <workItem from="1726046517537" duration="10006000" />
+      <workItem from="1726588907638" duration="7814000" />
+      <workItem from="1726824281117" duration="208000" />
+      <workItem from="1726824834934" duration="150000" />
+      <workItem from="1727062717024" duration="6380000" />
+      <workItem from="1727236506487" duration="3134000" />
+      <workItem from="1728286435872" duration="2000" />
+      <workItem from="1728286453524" duration="7928000" />
+      <workItem from="1729491601316" duration="1120000" />
+      <workItem from="1729587475955" duration="30000" />
+      <workItem from="1730179318643" duration="4008000" />
+      <workItem from="1730280638822" duration="399000" />
+      <workItem from="1730281056216" duration="3000" />
+      <workItem from="1730870260852" duration="5119000" />
+      <workItem from="1733378878451" duration="2900000" />
+      <workItem from="1734310517871" duration="7369000" />
+      <workItem from="1735392722933" duration="9859000" />
+      <workItem from="1735704522972" duration="63000" />
+      <workItem from="1735704811305" duration="394000" />
+    </task>
+    <task id="LOCAL-00001" summary="后台系统完善">
+      <option name="closed" value="true" />
+      <created>1720521896987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720521896987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="后台系统完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台系统完善" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
